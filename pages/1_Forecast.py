@@ -80,6 +80,15 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+st.markdown(
+    """
+    <div style="background-color:#e5ecf2; padding:15px; border-radius:8px;">
+        <h5 style="text-align: center;">Note: Currently there are data problems with Lough Aleenauns depth, these are aimed to be fixed in the next few weeks</h5>
+      
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 st.image(os.path.join(os.getcwd(), "static", "Forecast 10th august.png"), width="stretch")
 
 #The page would be rather empty with just the image, so every forecast will have a small discussion with any comments on the forecast.
@@ -99,4 +108,5 @@ st.markdown(
        The current depths of the turlough will remain stable over the next six hours, little rainfall is expected to occur which is resulting in this stability.</p>
     """, unsafe_allow_html=True
 )
+
 
