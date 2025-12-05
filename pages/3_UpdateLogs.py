@@ -75,3 +75,7 @@ with st.expander(" Update Log Details"):
     st.write("""
     27/11/2025: The forecast page has been finished meaning TURCAST and the website are complete with plans to launch to the public in the next few weeks
              """)
+    st.write("""
+    5/12/2025: TURCAST has now been released to the public
+             """)
+
