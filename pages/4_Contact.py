@@ -70,8 +70,9 @@ st.markdown(
     """
     <div style="background-color:#e5ecf2; padding:15px; border-radius:8px; margin-top:20px;">
         <p style="text-align:center;">Email: oisin.jackson08@gmail.com</p>
-        <p style="text-align:center;">Github: </p>
+        <p style="text-align:center;">Github: OisinJacksonJJ</p>
     </div>
     """,
     unsafe_allow_html=True
 )
+
