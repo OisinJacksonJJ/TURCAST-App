@@ -105,9 +105,10 @@ st.markdown(
     """
     <div style="background-color:#e5ecf2; padding:15px; border-radius:8px; margin-top:0px;">
         <p style="color:#333; font-size:16px;">
-       The current depths of the turlough will remain stable over the next six hours, little rainfall is expected to occur which is resulting in this stability.</p>
+       The extremely rainy month of November has resulted in the turloughs depths being consistently deep for the past 45 days. At the moment it is currently rising and will likely to continue to do so in the near future</p>
     """, unsafe_allow_html=True
 )
+
 
 
 
