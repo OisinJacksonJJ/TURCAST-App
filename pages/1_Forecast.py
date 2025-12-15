@@ -89,7 +89,7 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.image(os.path.join(os.getcwd(), "static", "Forecast 10th august.png"), width="stretch")
+st.image(os.path.join(os.getcwd(), "static", "december 1st forecast.png"), width="stretch")
 
 #The page would be rather empty with just the image, so every forecast will have a small discussion with any comments on the forecast.
 st.markdown(
@@ -108,5 +108,6 @@ st.markdown(
        The current depths of the turlough will remain stable over the next six hours, little rainfall is expected to occur which is resulting in this stability.</p>
     """, unsafe_allow_html=True
 )
+
 
 
